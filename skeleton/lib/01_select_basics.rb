@@ -7,6 +7,7 @@
 #  area        :integer
 #  population  :integer
 #  gdp         :integer
+#
 
 require_relative './sqlzoo.rb'
 
